@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Profile</title>
+  <title>Anirudh - Profile</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -44,33 +44,33 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Web Developer</p>
+    <h1>anirudh</h1>
+    <p>test web</p>
   </header>
   <main>
-    <img src="your-profile-picture.jpg" alt="Your Name">
+    <img src="your-profile picture.jpg" alt="Your Name">
     <h2>About Me</h2>
     <p>
-      Hello! I'm Your Name, a web developer passionate about creating amazing websites and web applications. I love learning new technologies and enjoy working on exciting projects.
+      Hello! I'm Anirudh , this is a test website 
     </p>
     <h2>Skills</h2>
     <p>
       - HTML5<br>
-      - CSS3<br>
-      - JavaScript<br>
+      - python<br>
+      - C++<br>
       - Responsive Web Design<br>
-      - Web Development Frameworks (e.g., React, Angular, etc.)<br>
+      - PHP<br>
       - Version Control (e.g., Git)<br>
     </p>
     <h2>Contact</h2>
     <p>
-      Email: yourname@example.com<br>
-      Website: www.yourwebsite.com<br>
-      Phone: (123) 456-7890<br>
+      Email: anirudhsanil26@gmail.com<br>
+      Website: this is a test<br>
+      Phone: 0000000000<br>
     </p>
   </main>
   <footer>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
+    <p>&copy; 2023 testweb. All rights reserved.</p>
   </footer>
 </body>
 </html>
